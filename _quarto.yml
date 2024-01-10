@@ -24,7 +24,7 @@ self-contained: true
 #   - _bib/references.bib
 # csl: _bib/citethemright10th.csl
 
-modulecode: 'Stats with Jamovi'
+modulecode: 
 
 # output format options - change these as required
 format:
@@ -44,7 +44,6 @@ format:
     linkcolor: black # colour of links
     colorlinks: true
     toc: true # turn table of contents on/off
-    toc-title: Contents # title of table of contents - change if desired
     resize-headings: false
   html:
     template: _resources/templates/html.html
